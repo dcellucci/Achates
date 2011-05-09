@@ -1,0 +1,19 @@
+Hey. How did you get here? Doesn't matter. I'm writing a hack for Google Maps that will let people put up geotagged notes and save them. 
+	Short term plans:
+	 	SQL integration
+		Photo uploading
+		Lists and Categories
+	Long Term Plans:
+		Facebook/Twitter integration
+		Following Friends Notes
+		Curated Lists and Public Notes
+Feel free to fork. That's why it's public. 
+
+The code is designed to be lightweight (for the moment) and have minimal interface. 
+
+VERSION .0001
+First upload. 
+	Right now it lets you...
+		>Make a note by double-clicking on the map. 
+		>Toggle free-move mode by double clicking a marker.
+		>open an info window by single-clicking a marker. 
